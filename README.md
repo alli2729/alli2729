@@ -1,6 +1,5 @@
 - 👋 Hi, Its Ali
-- 👀 I’m interested in Front-End languages such as HTML , CSS ,etc.
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Dart
 - 📫 You can follow me on instagram : @h_k_1379
 
 <!---
