@@ -1,6 +1,5 @@
 - 👋 Hi, Its Ali
-- 🌱 I’m currently learning Dart
-- 📫 You can follow me on instagram : @h_k_1379
+- 🌱 I’m currently learning Dart and Flutter
 
 <!---
 alli2729/alli2729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
