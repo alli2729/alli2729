@@ -5,7 +5,6 @@
 
 - 📫 How to reach me : **E-mail : a.karimi2729@gmail.com , Telegram : @ErIstAlan**
 
-- ⚡ Fun fact **I hate oop programming**
 
 <p align="left">
 </p>
