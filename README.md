@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali (Alan)</h1>
-<h3 align="center">A Flutter intern developer from Iran</h3>
+<h3 align="center">Junior Flutter Developer from Iran</h3>
 
-- 🌱 I’m currently learning **Flutter and Dart**
-
-- 📫 How to reach me : **E-mail : a.karimi2729@gmail.com , Telegram : @ErIstAlan**
+- 📫 How to reach me : **E-mail : alikarimiwork0@gmail.com , Telegram : @ErIstAlan**
 
 
 <p align="left">
